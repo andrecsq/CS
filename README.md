@@ -2,7 +2,7 @@
 
 This is my public documentation of my journey in the [OSS Computer Science Curriculum](https://github.com/open-source-society/computer-science). This is inspired by the [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/).
 
-Above there is a list of the courses and my respective progress in each of them. Specific courses may change to similar ones due to availability. Progress and duration are in **weeks**.
+Below there is a list of the courses and my progress in each of them atm. Specific courses may change to similar ones due to availability. Progress and duration are in **weeks**.
 
 ### Introduction to Computer Science
 
