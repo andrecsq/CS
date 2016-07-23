@@ -2,13 +2,13 @@
 
 This is my public documentation of my journey in the [OSS Computer Science Curriculum](https://github.com/open-source-society/computer-science). This is inspired by the [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/).
 
-Below there is a list of the courses and my progress in each of them atm. Specific courses may change to similar ones due to availability. Progress and duration are in **weeks**.
+Below there is a list of the courses and my progress in each of them atm. Specific courses may change to similar ones due to availability. Progress and duration are in **weeks**. **Progress** is the week i am atm.
 
 ### Introduction to Computer Science
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 5 | 12
+ | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 6 | 12
 
 ### Math (Mathematical Thinking)
 
