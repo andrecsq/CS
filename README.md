@@ -8,7 +8,7 @@ Below there is a list of the courses and my progress in each of them atm. Specif
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 6 | 12
+ | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 8 | 12
 
 ### Math (Mathematical Thinking)
 
