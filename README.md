@@ -1,6 +1,6 @@
 ### OSS Computer Science Course 
 <a href="https://github.com/open-source-society/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
 
 This is my public documentation of my journey in the [OSS Computer Science Curriculum](https://github.com/open-source-society/computer-science). This is inspired by the [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/).
 
@@ -70,7 +70,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Automata](https://www.coursera.org/course/automata)| 0 | 6
+ | [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)| 0 | 9
 
 ### Software Engineering
 
@@ -118,7 +118,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| 0 | 10
+ | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 0 | 15
 
 ### Cryptography
 
@@ -143,7 +143,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)| 0 | 11
+ | [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)| 0 | 20
 
 ### UX Design
 
@@ -173,7 +173,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Natural Language Processing](https://www.coursera.org/course/nlangp)| 0 | 10
+ | [Natural Language Processing](https://www.coursera.org/learn/nlp)| 0 | 10
 
 ### Big Data
 
