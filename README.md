@@ -1,6 +1,6 @@
 ### OSS Computer Science Course 
 <a href="https://github.com/open-source-society/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 
 This is my public documentation of my journey in the [OSS Computer Science Curriculum](https://github.com/open-source-society/computer-science). This is inspired by the [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/).
 
