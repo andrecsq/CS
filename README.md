@@ -100,7 +100,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Computer Networks](https://www.coursera.org/course/comnetworks)| 0 | ?
+ | [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 0 | ?
 
 ### Databases
 
