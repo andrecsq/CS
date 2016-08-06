@@ -179,7 +179,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data)| 0 | 3
+ | [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction)| 0 | 3
 
 ### Data Mining
 
