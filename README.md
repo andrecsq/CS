@@ -57,7 +57,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Calculus One](https://www.coursera.org/learn/calculus1)| 9 | 16
+ | [Calculus One](https://www.coursera.org/learn/calculus1)| 10 | 16
  | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 0 | 7
 
 ### Software Architecture
