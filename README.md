@@ -30,7 +30,7 @@ X | [Systematic Program Design - Part 1](https://www.edx.org/course/how-code-sys
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| 7 | 25
+ | [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| 8 | 25
 
 ### Algorithms
 
