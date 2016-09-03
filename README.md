@@ -36,7 +36,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 0 | 6
+ | [Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 2 | 6
  | [Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 0 | 6
 
 ### Programming Paradigms
