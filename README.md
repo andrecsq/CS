@@ -36,8 +36,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 3 | 6
- | [Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 0 | 6
+ | [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)| 7 | 24
 
 ### Programming Paradigms
 
