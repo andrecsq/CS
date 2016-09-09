@@ -36,7 +36,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)| 8 | 25
+ | [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)| 9 | 25
 
 ### Programming Paradigms
 
