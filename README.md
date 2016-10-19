@@ -16,7 +16,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 3 | 9
+ | [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 4 | 9
 
 ### Program Design
 
