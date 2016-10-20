@@ -49,7 +49,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Software Testing](https://www.udacity.com/course/software-testing--cs258)| 0 | 4
+ | [Software Testing](https://www.udacity.com/course/software-testing--cs258)| 2 | 4
  | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 0 | 8
 
 ### Math (Calculus)
