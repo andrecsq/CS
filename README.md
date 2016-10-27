@@ -81,7 +81,7 @@ Done | Courses | Progress | Duration
 
 Done | Courses | Progress | Duration
 :-- | :--: | :--: | :--:
- | [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)| 0 | 16
+ | [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)| 1 | 10
 
 ### Computer Architecture
 
